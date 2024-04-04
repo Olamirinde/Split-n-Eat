@@ -1,5 +1,9 @@
 function App() {
-  return <div>Eat and Split</div>;
+  return (
+    <div>
+      <h1>Eat and Split</h1>
+    </div>
+  );
 }
 
 export default App;
